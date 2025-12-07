@@ -40,11 +40,11 @@ java -cp build\classes Calculo.vidaSaudavel
 
 **Escolha do objetivo/perfil:**
 
-* - Ganho de Massa Muscular
+*  Ganho de Massa Muscular
 
-* - Sedentário
+*  Sedentário
 
-* - Ativo
+*  Ativo
 ```bash 
 BEM VINDO AO APP VIDA SAUDÁVEL
 Neste aplicativo, você saberá quanto de proteína e calorias deve comer por dia, bem como o seu IMC.
