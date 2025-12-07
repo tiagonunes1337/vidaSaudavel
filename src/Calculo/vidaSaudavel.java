@@ -19,7 +19,7 @@ public class vidaSaudavel {
        } 
         System.out.println("Escolha a sua meta:");
         System.out.println("1 - Para ganhar massa muscular");
-        System.out.println("2 - Para sendentarios");
+        System.out.println("2 - Para sedentarios");
         System.out.println("3 - Para ativos");
         
         int escolha = leitor.nextInt();        
